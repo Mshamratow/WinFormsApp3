@@ -1,0 +1,4 @@
+0 Bobik 9 Dog
+1 Zhuchka 7 Dog
+2 Larisa 8 Cat
+3 Kesha 9 Parrot
